@@ -1,0 +1,1 @@
+This repo is to reproduce a strange behaviour in displaying Maven relase plugin tags.
